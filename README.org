@@ -1,0 +1,10 @@
+
+* Introduction
+
+This is just a simple console twitterwall.
+
+* Future plans
+
+Maybe at some point in the future, this will be configurable
+optionally-ncurses based, super-cool, hyper-neat, widely used
+twitterwall. Let's hope so =)
